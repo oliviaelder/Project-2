@@ -1,0 +1,174 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "firstName": "Olivia",
+      "lastName": "Elder",
+      "phoneNumber": "123456 123",
+      "emailAddress": "olivia.elder@mail.helenacollege.edu"
+    },
+    {
+      "id": "2",
+      "firstName": "Johnny",
+      "lastName": "Park",
+      "phoneNumber": "508-858-7777",
+      "emailAddress": "john.park@gmail.com"
+    },
+    {
+      "id": "3",
+      "firstName": "Ashley",
+      "lastName": "Deadwood",
+      "phoneNumber": "406-859-7785",
+      "emailAddress": "a.deadwood@aol.com"
+    },
+    {
+      "id": "4",
+      "firstName": "Marsha",
+      "lastName": "Neon",
+      "phoneNumber": "506-896-1212",
+      "emailAddress": "marsha.neon@bresnan.net"
+    },
+    {
+      "id": "5",
+      "firstName": "John Paul",
+      "lastName": "Mac",
+      "phoneNumber": "658-475-7878",
+      "emailAddress": "john.mac@aol.com"
+    },
+    {
+      "id": "6",
+      "firstName": "Robert James",
+      "lastName": "Smith",
+      "phoneNumber": "406-887-7888",
+      "emailAddress": "b.smith@gmail.com"
+    },
+    {
+      "id": "7",
+      "firstName": "Roberta",
+      "lastName": "Casey",
+      "phoneNumber": "904-895-7485",
+      "emailAddress": "robertac@hotmail.com"
+    },
+    {
+      "id": "8",
+      "firstName": "Travis",
+      "lastName": "Elder",
+      "emailAddress": "travistelder@bresnan.net",
+      "phoneNumber": "4064385292"
+    },
+    {
+      "id": "9",
+      "firstName": "Kelly Dyan",
+      "lastName": "Anderson",
+      "phoneNumber": "123-123-1234",
+      "emailAddress": "kjhkj@gmail.com"
+    }
+  ],
+  "habits": [
+    {
+      "id": "1",
+      "name": "Drink Water",
+      "desc": "TOTAL ounces of water intake",
+      "quantity": "24"
+    },
+    {
+      "id": "2",
+      "name": "Exercise",
+      "desc": "TOTAL hours of exercise",
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "name": "Read",
+      "desc": "TOTAL hours of reading",
+      "quantity": "1.5"
+    },
+    {
+      "id": "4",
+      "name": "Sleep",
+      "desc": "TOTAL hours of sleep",
+      "quantity": "8"
+    },
+    {
+      "id": "5",
+      "name": "Meditate",
+      "desc": "TOTAL hours of meditation",
+      "quantity": "1"
+    },
+    {
+      "id": "6",
+      "name": "Eat Veggies",
+      "desc": "TOTAL servings of vegetables",
+      "quantity": "2"
+    },
+    {
+      "id": "7",
+      "name": "Lift Weights",
+      "desc": "TOTAL hours weight lifting",
+      "quantity": ".5"
+    },
+    {
+      "id": "8",
+      "name": "Journal",
+      "desc": "Hours of journaling",
+      "quantity": "1"
+    },
+    {
+      "id": "9",
+      "name": "Eat Fruits",
+      "desc": "TOTAL servings of fruit",
+      "quantity": "6"
+    }
+  ],
+  "user-habits": [
+    {
+      "id": "2",
+      "clientId": "1",
+      "habitId": "1",
+      "quantity": "16",
+      "date": "2024-12-01"
+    },
+    {
+      "id": "3",
+      "clientId": "1",
+      "habitId": "4",
+      "quantity": "4",
+      "date": "2024-12-01"
+    },
+    {
+      "id": "4",
+      "clientId": "1",
+      "habitId": "8",
+      "quantity": ".5",
+      "date": "2024-12-02"
+    },
+    {
+      "id": "5",
+      "clientId": "1",
+      "habitId": "1",
+      "quantity": "16",
+      "date": "2024-12-02"
+    },
+    {
+      "id": "6",
+      "clientId": "2",
+      "habitId": "1",
+      "quantity": "12",
+      "date": "2024-12-02"
+    },
+    {
+      "id": "7",
+      "clientId": "2",
+      "habitId": "2",
+      "quantity": "2",
+      "date": "2024-12-02"
+    },
+    {
+      "id": 8,
+      "clientId": "4",
+      "habitId": "3",
+      "quantity": "4",
+      "date": "2024-12-09"
+    }
+  ]
+}
