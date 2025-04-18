@@ -1,25 +1,30 @@
-# Project-2
+# ⚛️ Project-2: React Habit Tracker
 
-A single-page React app built with Vite and deployed to GitHub Pages. 
-The project is fully deployed to GitHub Pages, showcasing responsive design and component-based architecture.
-*Note:  This
+A single-page **React** app built with **Vite**, designed to help users track habits like water intake, exercise, and more. Fully deployed to **GitHub Pages**, featuring a clean UI and modular architecture.
 
-## Features
-- Built with React and Vite
-- Uses React Router for client-side routing
-- Axios for API requests
-- JSON Server for mock backend during development
-- Deployed on GitHub Pages
+## 🌟 Features
 
-## Getting Started
-This project uses db.json with JSON Server to simulate a backend API during local development.
+- ⚛️ Built with **React** and **Vite**  
+- 🔀 Uses **React Router** for client-side navigation  
+- 🔧 **Axios** for API requests  
+- 🗃️ **JSON Server** used as a mock backend during development  
+- 🚀 Deployed on **GitHub Pages**
+  
+## 🔗 Live Demo
 
-However, GitHub Pages only supports static file hosting and cannot run servers like JSON Server. This means any API calls to http://localhost:3030 (or similar) will not work in the live demo.
+👉 [Visit the Habit Tracker site](https://oliviaelder.github.io/Project-2/)
 
-To test the full functionality of this project, including data fetching and API interactions, please run the project locally using:
+## ⚠️ Live Demo Limitations
 
+GitHub Pages only supports static file hosting and cannot run servers like JSON Server.  
+Any API calls to `http://localhost:3030` (or similar) **will not work** in the live demo.
+
+## 💻 Local Development
+
+To run the project with full functionality (including API calls):
+
+```bash
 npm install
 npm run dev
 json-server --watch db.json --port 3030
-
 
