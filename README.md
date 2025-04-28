@@ -1,4 +1,4 @@
-# ⚛️ Project-2: React Habit Tracker
+#  Project 2: React Habit Tracker
 
 A single-page **React** app built with **Vite**, designed to help users track habits like water intake, exercise, and more. Fully deployed to **GitHub Pages**, featuring a clean UI and modular architecture.
 
