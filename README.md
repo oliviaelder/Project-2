@@ -9,7 +9,7 @@ Results: The most challenging part was integrating the habit tracking functional
 
 Refelction: I enjoyed learning about how to structure and visualize a tracking system. Designing the API and managing the dates helped me improve my problem-solving skills.
 
-
+<img src="https://github.com/oliviaelder/Project-2/raw/main/EditClient.png" alt="Add/Edit a Client" style="max-width: 100%; height: auto;">
   
 ## Live Demo
 
